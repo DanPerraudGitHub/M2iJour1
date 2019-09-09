@@ -1,18 +1,1 @@
-
-
-Salut le monde !
-
-Comment ?a va ?
-
-X=Y+1;
-
-Y=X*X;
-
-Y=2*Y;
-
-Y=Y +10;
-
-// new
-Z=3;
-
-Z:=4;
+c'est le test b01
