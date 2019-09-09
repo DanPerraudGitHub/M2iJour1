@@ -4,5 +4,5 @@ repo Daniel
 accent: é ê
 
 *******************************************
-Ajout nouvelle ligne edit local local2
-****************************
+Ajout nouvelle ligne edit local modif2
+*******************************************
