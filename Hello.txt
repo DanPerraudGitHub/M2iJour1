@@ -4,4 +4,6 @@ Salut le monde !
 
 Comment ?a va ?
 
+X=Y+1;
+
 
