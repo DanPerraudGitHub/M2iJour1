@@ -6,11 +6,11 @@ Comment ?a va ?
 
 X=Y+1;
 
-
 Y=X*X;
 
-// commit 1
 Y=2*Y;
 
-// commit 2
 Y=Y +10;
+
+// new
+Z=3;
